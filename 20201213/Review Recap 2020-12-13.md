@@ -16,7 +16,7 @@ With a comparison of the two programs mentioned (did try myself yet)
 
 ![](res/Model_small.jpg)
 → 
-![](res/Model img-enlarger 2x.jpg)
+![](res/Model_img-enlarger_2x.jpg)
 
 * Remini (mobile app, cloud-based)
 
@@ -24,7 +24,7 @@ With a comparison of the two programs mentioned (did try myself yet)
 
 ![](res/Model_small.jpg)
  → 
-![](res/Model small remi.JPG)
+![](res/Model_small_remi.JPG)
 
 (Wanted to try on an enlarged version, too, but no conversion left for today on my free account)
 
@@ -34,7 +34,7 @@ Both are limited in the picture size, though (even when paid for)
 
 ##Stereo images
 
-![](res/Stereo with help.jpg)
+![](res/Stereo_with_help.jpg)
 
 Hope you can see the stereogram for the 3D effect - here is a page listing many methods to approach it: https://www.hidden-3d.com/how_to_view_stereogram.php In any way I recommend seeing it on black background.
 
@@ -58,7 +58,7 @@ And the resolution comparison I showed
 
 Since I already prepared it, I’ll throw this in, too:
 
-![](res/Tele test.pdf)
+![](res/Tele_test.pdf)
 
 ## Great conjunction
 
