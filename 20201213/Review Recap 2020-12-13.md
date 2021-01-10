@@ -58,7 +58,7 @@ And the resolution comparison I showed
 
 Since I already prepared it, I’ll throw this in, too:
 
-![](res/Tele_test.pdf)
+![](res/Tele_test.jpg)
 
 ## Great conjunction
 
